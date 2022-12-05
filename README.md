@@ -18,7 +18,7 @@ To learn and experiment with CSS styles concering the functionality of `display:
 
 ### Deployed Website
 
-View the deployed application for week-2, task 3, Jakes Eatery at makemassair.github.io.
+View the deployed application for week-2, task 3, Jakes Eatery at makemassair.github.io(https://makemassair.github.io/Jakes-Eatery/).
 
 ### Screenshot
 
